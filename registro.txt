@@ -1,0 +1,13 @@
+Opcion - Nombre - Datos ingresados - Resultado
+1 - Fibonacci - Terminos de la serie: 10 - 0 1 1 2 3 5 8 13 21 34 
+1 - Fibonacci - Terminos de la serie: 2 - 0 1 
+1 - Fibonacci - Terminos de la serie: 3 - 0 1 1 
+2 - Serie de Taylor - n= 12 y x= 3 - El resultado es: 20.0841
+1 - Fibonacci - Terminos de la serie: 6 - 0 1 1 2 3 5 
+2 - Serie de Taylor - n= 45 y x= 1 - El resultado es: 2.71828
+2 - Serie de Taylor - n= 56 y x= 3 - El resultado es: 20.0855
+1 - Fibonacci - Terminos de la serie: 45 - 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 28657 46368 75025 121393 196418 317811 514229 832040 1346269 2178309 3524578 5702887 9227465 14930352 24157817 39088169 63245986 102334155 165580141 267914296 433494437 701408733 
+2 - Serie de Taylor - n= 45 y x= 1 - El resultado es: 2.71828
+1 - Fibonacci - Terminos de la serie: 23 - 0 1 1 2 3 5 8 13 21 34 55 89 144 233 377 610 987 1597 2584 4181 6765 10946 17711 
+1 - Fibonacci - Terminos de la serie: 5 - 0 1 1 2 3 
+2 - Serie de Taylor - n= 6 y x= 2 - El resultado es: 7.26667
